@@ -6,7 +6,7 @@
 * The names of input and output bits are also given in square brackets after each question (except for truth tables)
 * $a_0, ...a_3$ or $a_0, a_1, a_2, a_3$ means a 4 bit binary number with least significant bit as $a_0$ and most significant bit as $a_3$
 
-### Design a logic circuit satisfying the input and output specified in each question
+### Design a logic circuit that meets the specified input and output requirements for each question.
 
 1. Given a 4 bit number consisting of bits $a_0, a_1, a_2, a_3$,
    output two bits:<br>
