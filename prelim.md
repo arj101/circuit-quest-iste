@@ -94,7 +94,7 @@
    [Inputs: $a_0, ...a_3$, $b_0, ...b_3$, Outputs: $o_0, ...o_3$]
    <br>
 
-18. Two players are playing rock paper scissor. Three input bits are given per player, representing their choice, bits of player A are $r_a, p_a, s_a$ and that of player B are $r_b, p_b, s_b$, where the letters r, p, s represent the players choice (r - rock, p - paper, s - scissor). The bits corresponding to a player's choice is 1, and others are 0, (only 1 bit corresponding to a player is equal to 1 at once). Output the bit $o$ which is 1 if player A won, otherwise 0. <br>
+18. Two players are playing Rock Paper Scissors. Three input bits are given per player representing their choice, bits of player A are $r_a, p_a, s_a$ and that of player B are $r_b, p_b, s_b$, where the letters r, p, s represent the players choice (r - rock, p - paper, s - scissors). The bit corresponding to a player's choice is 1, and others are 0, (only 1 bit corresponding to a player is equal to 1 at once). Output the bit $o$ which is 1 if player A won, otherwise 0. <br>
    [Inputs: $r_a, p_a, s_a$, $r_b, p_b, s_b$, Outputs: $o$]
 
 <div style="display: none;">
