@@ -53,6 +53,7 @@
 
 13. Given three numbers n1, n2, n3, the input is given given as three bits containing results of boolean expressions. They are $a = (n1 > n2), b = (n1 > n3), c = (n2 > n3)$. Output is three bits $x, y, z$, in which $x = 1$ if n1 is the largest of three numbers, $y = 1$ if n2 is the largest of three numbers, and $z = 1$ if n3 is the largest of three numbers$
 
+14. A digital signal is transmitted as a differential pair, both transmission lines in the differential pair are active low (meaning, to send a bit 1, the transmission line actually transitions from a high voltage level (1) to low voltage level (0)). The inputs $a, b$ are the transmission line state (active low). The output $o$ is the data being transmitted, which is the magnitude of the difference between the two input signal values.
 
 <div style="display: none;">
  <script type="text/x-mathjax-config">
