@@ -50,4 +50,4 @@
 
 11. Input is given as a 4 bit number $a_0, ...a_3$, and a parity bit $p$. The parity bit is 1 if the number has odd parity, otherwise 0. Output is a number $o_0, ...o_3$, output should be equal to the input number only if the actual parity and the parity bit matches. Otherwise output all zeroes.
 
-12. Given three numbers n1, n2, n3, the input is given given as three bits containing results of boolean expressions. They are $a = (n1 > n2), b = (n1 > n3), c = (n2 > n3)$. Output is three bits $x, y, z$, in which x = 1 if n1 is the largest of three numbers, y = 1 if n2 is the largest of three numbers, and z = 1 if n3 is the largest of three numbers$
+12. Given three numbers n1, n2, n3, the input is given given as three bits containing results of boolean expressions. They are $a = (n1 > n2), b = (n1 > n3), c = (n2 > n3)$. Output is three bits $x, y, z$, in which $x = 1$ if n1 is the largest of three numbers, $y = 1$ if n2 is the largest of three numbers, and $z = 1$ if n3 is the largest of three numbers$
