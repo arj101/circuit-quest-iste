@@ -44,7 +44,7 @@
    |1|0|1|1|0|
 
 7. Given two 4 bit numbers $a_0, ... a_3$ and $b_0, ... b_3$, output a 4 bit number $c_0, ... c_3$ containing the bitwise AND of the two input numbers.
-8. The given 7-segment display has 7 binary inputs  (name of each input given within the segment), the segments light up (green) when its input is 1, and the segment is dark when its input is 0. The input for the circuit to be designed is given as $a$. If $a = 0$, display a "0" in the 7-segment display (light up the correct segments), and when $a = 1$, display a "1"
+8. The given 7-segment display has 7 binary inputs  (name of each input of the display given within the segment), the segments light up (green) when its input is 1, and the segment is dark when its input is 0. The input for the circuit to be designed is given as $a$. If $a = 0$, display a "0" in the 7-segment display (light up the correct segments), and when $a = 1$, display a "1"
 ![](./q9.png)
 9. A device has 4 buttons to send command to another device. The 4 button states are given as input bits $l, r, u, d$, where the bit is 1 if the button is pressed. Output a 4 bit binary number $o_0, o_1, o_2, o_3$ given that if key $l$ is pressed, output(in base 10) should be 1, if key $r$ is pressed, output should be 2, if $u$ is pressed, output should be 4, if $r$ is pressed, output should be 8. If multiple buttons are pressed at the same time, the output should be the sum of all the numbers corresponding to each button.
 
