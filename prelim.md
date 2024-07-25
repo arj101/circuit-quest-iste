@@ -8,7 +8,7 @@
 
 ### Design a logic circuit satisfying the input and output specified in each question
 
-1. Given a 4 bit number consisting of bits $a_0, a_1, a_2, a_3$ where $a_0$ is the least significant bit,<br>
+1. Given a 4 bit number consisting of bits $a_0, a_1, a_2, a_3$
    output two bits:<br>
    bit $x$ = 1 if the given number is odd, otherwise 0<br>
    bit $y$ = 1 if the given number is even, otherwise 0<br>
@@ -26,7 +26,7 @@
    |0|1|0|
    |1|1|1|
 
-3. Given a 4 bit number consisting of bits $a_0, a_1, a_2, a_3$, output a 5 bit number $b_0, b_1, b_2, b_3, b_4$ which is twice that of input number, where $a_0$ and $b_0$ are the least significant bit of the input and output number respectively.
+3. Given a 4 bit number consisting of bits $a_0, a_1, a_2, a_3$, output a 5 bit number $b_0, b_1, b_2, b_3, b_4$ which is double of the input number.
    
    [Inputs: $a_0, ...a_3$, Outputs: $b_0, ...b_4$]
    <br>
@@ -41,8 +41,7 @@
    |0|1|0|1|
    |1|1|1|0|
 
-5. Given a 4 bit even number consisting of bits $a_0, a_1, a_2, a_3$, output a 3 bit number $b_0, b_1, b_2$, which is the half of the input. $a_0$ and $b_0$ are the least signgicant bit of the input and output number respectively.
-
+5. Given a 4 bit even number consisting of bits $a_0, a_1, a_2, a_3$, output a 3 bit number $b_0, b_1, b_2$, which is the half of the input. 
    [Inputs: $a_0, ...a_3$, Outputs: $b_0, ...b_2$]
    <br>
 
