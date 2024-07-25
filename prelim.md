@@ -55,6 +55,8 @@
 
 14. A digital signal is transmitted as a differential pair, both transmission lines in the differential pair are active low (meaning, to send a bit 1, the transmission line actually transitions from a high voltage level (1) to low voltage level (0)). The inputs $a, b$ are the transmission line state (active low). The output $o$ is the data being transmitted, which is the magnitude of the difference between the two input signal values.
 
+15. Given two numbers $a_0, ... a_3$ and $b_0, ... b3$ as inputs, output the number $o_0, ... o_3$ which is the average of the two input numbers (only integer part)
+
 <div style="display: none;">
  <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
