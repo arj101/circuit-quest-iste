@@ -4,7 +4,7 @@
 * In truth tables, columns with heading "input" are input bits, and "output" are output bits
 * The input and output names are given below the column heading
 * The names of input and output bits are also given in square brackets after each question (except for truth tables)
-* $a_0, ...a_3$ means a 4 bit binary number with least significant bit as $a_0$ and most significant bit as $a_3$
+* $a_0, ...a_3$ or $a_0, a_1, a_2, a_3$ means a 4 bit binary number with least significant bit as $a_0$ and most significant bit as $a_3$
 
 ### Design a logic circuit satisfying the input and output specified in each question
 
