@@ -54,8 +54,14 @@
 13. Given three numbers n1, n2, n3, the input is given given as three bits containing results of boolean expressions. They are $a = (n1 > n2), b = (n1 > n3), c = (n2 > n3)$. Output is three bits $x, y, z$, in which $x = 1$ if n1 is the largest of three numbers, $y = 1$ if n2 is the largest of three numbers, and $z = 1$ if n3 is the largest of three numbers$
 
 
-<div style="display:none;">
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-</div>
+<div style="display: none;">
+ <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+          }
+        });
+      </script>
+      <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+      </div>
