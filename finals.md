@@ -10,14 +10,14 @@
 
 1. Given a number $a_0...a_3$ as input, and a 7-segment display containing the following inputs, display the numbers 0 to 9 (other cases can be ignored) when they are given as input in $a_0...a_3$ (Set a bit corresponding to a segment to light it up)
    ![](7-seg.png)
-   [Inputs: $a_0...a_3$, Outputs: $i, j, k, l, m, n, o, p$]
+   [Inputs: $a_0...a_3$, Outputs: $i, j, k, l, m, n, o$]
 
 2.   i. Attach a 4-bit (incrementing) counter as the input for circuit in question 1, given a square wave clock input signal $clk$<br>
-       [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o, p$] <br><br>
+       [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o$] <br><br>
      ii. After counting to 9, return back to 0 <br>
-       [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o, p$]<br><br>
+       [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o$]<br><br>
      iii. Use two 7-segment displays to count from 0 to 15<br>
-       [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o, p, a, b, c, d, e, f, g$] ($a$ to $f$ are inputs for the second 7-segment display, segments in the same order as the first one)
+       [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o, a, b, c, d, e, f, g$] ($a$ to $f$ are inputs for the second 7-segment display, segments in the same order as the first one)
 
 
 4. Given 4, 4-bit numbers $a_0...a_3, b_0...b_3, c_0...c_3, d_0...d_3$ and a 2-bit number $s_0,s_1$ as input, output $o_0...o_3$ should be equal to: <br>
