@@ -34,3 +34,15 @@
     $d = o$ when $s = 3$<br>
     (other outputs should be zero)<br>
     [Inputs: $o_0...o_3$, $s_0,s_1$, Outputs:  $a_0...a_3, b_0...b_3, c_0...c_3, d_0...d_3$]
+
+<div style="display: none;">
+ <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+          }
+        });
+      </script>
+      <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+      </div>
