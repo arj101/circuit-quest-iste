@@ -12,7 +12,7 @@
    ![](7-seg.png)
    [Inputs: $a_0...a_3$, Outputs: $i, j, k, l, m, n, o$]
 
-2.   i. Attach a 4-bit (incrementing) counter as the input for circuit in question 1, given a square wave clock input signal $clk$<br>
+2.   i. Attach a 4-bit (incrementing) counter as the input for circuit in question 1 (starting from 0, ignore cases above 9), given a square wave clock input signal $clk$<br>
        [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o$] <br><br>
      ii. After counting to 9, return back to 0 <br>
        [Inputs: $clk$, Outputs: $i, j, k, l, m, n, o$]<br><br>
