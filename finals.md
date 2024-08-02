@@ -4,8 +4,10 @@
 * The names of input and output bits are also given in square brackets after each question (except for truth tables)
 * $a_0, ...a_3$ means a 4 bit binary number with least significant bit as $a_0$ and most significant bit as $a_3$
 <br>
-<br>
+
+
 ## Questions 
+
 1. Given a number $a_0...a_3$ as input, and a 7-segment display containing the following inputs, display the numbers 0 to 9 (other cases can be ignored) when they are given as input in $a_0...a_3$
 
    [Inputs: $a_0...a_3$, Outputs: $i, j, k, l, m, n, o, p$]
