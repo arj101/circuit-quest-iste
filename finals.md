@@ -8,7 +8,7 @@
 
 ## Questions 
 
-1. Given a number $a_0...a_3$ as input, and a 7-segment display containing the following inputs, display the numbers 0 to 9 (other cases can be ignored) when they are given as input in $a_0...a_3$ (Set a bit corresponding to a segment to light it up)
+1. Given a number $a_0...a_3$ as input, and a 7-segment display containing the inputs as marked in the diagram, display the numbers 0 to 9 (other cases can be ignored) when they are given as input in $a_0...a_3$ (Set a bit corresponding to a segment to light it up)
    ![](7-seg.png)
    [Inputs: $a_0...a_3$, Outputs: $i, j, k, l, m, n, o$]
 
