@@ -1,8 +1,8 @@
 # CircuitQuest Final Round
 
 ## How to read the questions
-* The names of input and output bits are also given in square brackets after each question (except for truth tables)
-* $a_0, ...a_3$ means a 4 bit binary number with least significant bit as $a_0$ and most significant bit as $a_3$
+* The names of input and output bits are also given in square brackets after each question.
+* $a_0, ...a_3$ means a 4 bit binary number with least significant bit as $a_0$ and most significant bit as $a_3$.
 <br>
 
 
